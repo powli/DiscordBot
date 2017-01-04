@@ -1,0 +1,11 @@
+{
+  "name": "bot-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Paul Siedler",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^11.0.0",
+    "uws": "^0.12.0"
+  }
+}
